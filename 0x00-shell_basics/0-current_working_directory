@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd 
+mv betty /tap/my_first_directory
+
