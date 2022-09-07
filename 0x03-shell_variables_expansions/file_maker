@@ -1,0 +1,6 @@
+*#!/bin/bash
+read new_file
+echo '#!/bin/bash' > $new_file
+vim $new_file
+chmod -v +x $new_file
+*
