@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-My third ALX repository
+This is a bash script
