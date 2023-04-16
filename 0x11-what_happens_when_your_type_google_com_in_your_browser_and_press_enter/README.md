@@ -1,0 +1,1 @@
+What happens when you go to google.com in your browser is a project that requires me to write a blog describing the process and flow of the components of the web in relation to server-client communications.
